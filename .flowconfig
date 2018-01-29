@@ -1,0 +1,8 @@
+[ignore]
+.*/dist/.*
+.*/test/.*
+[include]
+.*/src/.*
+[libs]
+flow-typed
+[options]

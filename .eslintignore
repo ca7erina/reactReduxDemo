@@ -1,0 +1,4 @@
+registerServiceWorker.js
+dist/*
+gulpfile.js
+coverage/*
